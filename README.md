@@ -1,5 +1,5 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<h1 align="center">Welcone</h1>
+<h1 align="center">Welcome</h1>
 <p></p>
 <p></p>
 <div align="center"> <!-- GitHub 数据统计 -->
