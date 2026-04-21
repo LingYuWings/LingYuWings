@@ -8,7 +8,7 @@
 <div align="center">
   
   <a href="https://github.com/LingYuWings">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingYuWings&layout=donut&theme=radical&hide_border=true&count_private=true" alt="Top Languages Pie Chart" width="100%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingYuWings&layout=donut&theme=radical&hide_border=true&count_private=true" alt="Top Languages Pie Chart" width="60%" />
   </a>
   
   &nbsp;&nbsp;&nbsp; <a href="https://github.com/LingYuWings">
